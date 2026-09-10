@@ -1,6 +1,6 @@
 # PSN Account ID Tool
 
-A Windows utility that retrieves the numeric account ID for most PlayStation Network accounts and converts it to formats used by third-party Remote Play clients such as **Chiaki / chiaki-ng** and **PSPlay / PXPlay**.
+**PSN Account ID Tool** is a Windows utility that retrieves the numeric account ID for most **PlayStation Network (PSN)** accounts and converts it to formats used by third-party Remote Play clients such as **Chiaki / chiaki-ng** and **PSPlay / PXPlay**.
 
 ## Features
 
@@ -52,6 +52,17 @@ Example:
 The Windows application is implemented with PowerShell WinForms. The installer and uninstaller are small Go programs using only the Go standard library.
 
 GitHub Actions builds the installer automatically. To build locally on Windows with Go installed, use the same commands shown in `.github/workflows/release.yml`.
+
+## Related PlayStation Tools
+
+- [Knights Contract PS3 Save Editor](https://github.com/alsharfa/Knights-Contract-PS3-Save-Editor)
+- [Driveclub PS4 Save Editor](https://github.com/alsharfa/Driveclub-PS4-Save-Editor-)
+- [Dynasty Warriors: Strikeforce PS3 Save Editor](https://github.com/alsharfa/Dynasty-Warriors-Strikeforce-ps3-save-editor)
+- [Final Fantasy XIII-2 PS3 Save Editor](https://github.com/alsharfa/Final-Fantasy-XIII-2-PS3-Save-Editor)
+
+## Search Terms
+
+PSN Account ID Tool · PlayStation Network Account ID · PSN Account ID lookup · Chiaki Account ID · chiaki-ng Account ID · PSPlay Account ID · PXPlay Account ID · PSN Base64 Account ID
 
 ## Disclaimer
 
